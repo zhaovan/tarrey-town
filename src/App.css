@@ -1,8 +1,11 @@
+@import url("https://fonts.googleapis.com/css?family=Dosis&display=swap");
+
 .App {
   /* background-color: lightsalmon;
  */
   background-image: url("assets/img/trianglify-lowres.png");
-  min-height: 1000px;
+  min-height: 850px;
+  font-family: "Dosis", sans-serif;
 }
 
 .App-logo {
