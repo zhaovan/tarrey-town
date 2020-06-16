@@ -3,9 +3,16 @@
 .App {
   /* background-color: lightsalmon;
  */
-  background-image: url("assets/img/trianglify-lowres.png");
-  min-height: 850px;
+
+  min-height: 750px;
+  height: 100%;
   font-family: "Dosis", sans-serif;
+}
+
+body,
+html {
+  height: 100%;
+  background-image: url("assets/img/trianglify-lowres.png");
 }
 
 .App-logo {
