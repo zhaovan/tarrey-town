@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/tarrey-town/static/css/main.9b295c0a.chunk.css",
-    "main.js": "/tarrey-town/static/js/main.ca2a3205.chunk.js",
-    "main.js.map": "/tarrey-town/static/js/main.ca2a3205.chunk.js.map",
+    "main.css": "/tarrey-town/static/css/main.08da8fcd.chunk.css",
+    "main.js": "/tarrey-town/static/js/main.ca020f57.chunk.js",
+    "main.js.map": "/tarrey-town/static/js/main.ca020f57.chunk.js.map",
     "runtime-main.js": "/tarrey-town/static/js/runtime-main.e4ab05b8.js",
     "runtime-main.js.map": "/tarrey-town/static/js/runtime-main.e4ab05b8.js.map",
-    "static/css/2.67b36e1b.chunk.css": "/tarrey-town/static/css/2.67b36e1b.chunk.css",
-    "static/js/2.6d4d3fc9.chunk.js": "/tarrey-town/static/js/2.6d4d3fc9.chunk.js",
-    "static/js/2.6d4d3fc9.chunk.js.map": "/tarrey-town/static/js/2.6d4d3fc9.chunk.js.map",
+    "static/css/2.add02000.chunk.css": "/tarrey-town/static/css/2.add02000.chunk.css",
+    "static/js/2.5555d619.chunk.js": "/tarrey-town/static/js/2.5555d619.chunk.js",
+    "static/js/2.5555d619.chunk.js.map": "/tarrey-town/static/js/2.5555d619.chunk.js.map",
     "index.html": "/tarrey-town/index.html",
-    "precache-manifest.ded934b44c8d22ce25018f7b85ccdad5.js": "/tarrey-town/precache-manifest.ded934b44c8d22ce25018f7b85ccdad5.js",
+    "precache-manifest.9a205424c5557b05c9a9ee0d722a89eb.js": "/tarrey-town/precache-manifest.9a205424c5557b05c9a9ee0d722a89eb.js",
     "service-worker.js": "/tarrey-town/service-worker.js",
-    "static/css/2.67b36e1b.chunk.css.map": "/tarrey-town/static/css/2.67b36e1b.chunk.css.map",
-    "static/css/main.9b295c0a.chunk.css.map": "/tarrey-town/static/css/main.9b295c0a.chunk.css.map",
-    "static/js/2.6d4d3fc9.chunk.js.LICENSE.txt": "/tarrey-town/static/js/2.6d4d3fc9.chunk.js.LICENSE.txt",
+    "static/css/2.add02000.chunk.css.map": "/tarrey-town/static/css/2.add02000.chunk.css.map",
+    "static/css/main.08da8fcd.chunk.css.map": "/tarrey-town/static/css/main.08da8fcd.chunk.css.map",
+    "static/js/2.5555d619.chunk.js.LICENSE.txt": "/tarrey-town/static/js/2.5555d619.chunk.js.LICENSE.txt",
+    "static/media/clarinet.png": "/tarrey-town/static/media/clarinet.1ae3068c.png",
     "static/media/gerudo.png": "/tarrey-town/static/media/gerudo.384a2e8b.png",
     "static/media/gerudo.mp3": "/tarrey-town/static/media/gerudo.918445d5.mp3",
     "static/media/goron.mp3": "/tarrey-town/static/media/goron.55691327.mp3",
@@ -31,9 +32,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e4ab05b8.js",
-    "static/css/2.67b36e1b.chunk.css",
-    "static/js/2.6d4d3fc9.chunk.js",
-    "static/css/main.9b295c0a.chunk.css",
-    "static/js/main.ca2a3205.chunk.js"
+    "static/css/2.add02000.chunk.css",
+    "static/js/2.5555d619.chunk.js",
+    "static/css/main.08da8fcd.chunk.css",
+    "static/js/main.ca020f57.chunk.js"
   ]
 }
