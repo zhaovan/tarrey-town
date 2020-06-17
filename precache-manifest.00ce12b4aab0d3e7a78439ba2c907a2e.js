@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e68d800b1ac917ee66fdce5f1f637975",
+    "revision": "9f06937374549e30fa852f6f689f3056",
     "url": "/tarrey-town/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tarrey-town/static/css/2.add02000.chunk.css"
   },
   {
-    "revision": "b9b99594ed0bdb1b30a9",
+    "revision": "7814ea218b0a93c7613a",
     "url": "/tarrey-town/static/css/main.08da8fcd.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tarrey-town/static/js/2.5555d619.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b9b99594ed0bdb1b30a9",
-    "url": "/tarrey-town/static/js/main.1b609454.chunk.js"
+    "revision": "7814ea218b0a93c7613a",
+    "url": "/tarrey-town/static/js/main.73ee1cc3.chunk.js"
   },
   {
     "revision": "346fd814b32f0147a7b7",
