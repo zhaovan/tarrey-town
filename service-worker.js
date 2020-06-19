@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tarrey-town/precache-manifest.00ce12b4aab0d3e7a78439ba2c907a2e.js"
+  "/tarrey-town/precache-manifest.f599448e5d070aa1fa6aee1646f59bf0.js"
 );
 
 self.addEventListener('message', (event) => {
